@@ -1,4 +1,4 @@
-AmeToken is a sample token we use in Ropsten for testing dai transactions. The contract is almost the same with [the Dai token contract in mainnet](https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f#code).
+AmeToken🍭 is a sample token we use in Ropsten for testing dai transactions. The contract is almost the same with [the Dai token contract in mainnet](https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f#code).
 _beware that it is NOT [the Sai token contract in mainnet](https://etherscan.io/address/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359)_
 
 Here are two changes I made:
